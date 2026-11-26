@@ -1,0 +1,6 @@
+chroma_db/
+chunks.json
+sp_chunks_validation.json
+.env
+__pycache__/
+*.pyc
